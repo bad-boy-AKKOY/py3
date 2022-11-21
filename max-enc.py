@@ -1,0 +1,2 @@
+import encode
+encode.MainMenu()
